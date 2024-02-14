@@ -1,4 +1,4 @@
-# Employee Database Project (SQL)
+# Employee Database Challenge (SQL)
 ![What_is_SQL_Database](https://github.com/SakinaJaffri/Module_Challenge9_Employee_SQL/assets/146900226/5c1a3f18-d3f1-48d6-847e-4dd4be7c740a)
 
 
