@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project comprises three key components: data modeling, data engineering, and data analysis. The goal is to design an employee database, create the necessary tables, import data, and perform insightful queries.
+This challenge comprises three key components: data modeling, data engineering, and data analysis. The goal is to design an employee database, create the necessary tables, import data, and perform insightful queries.
 
 ## Data Modeling
 
